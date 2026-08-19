@@ -35,25 +35,5 @@ portfolio-website/
 1. **GitHub**: [github.com/ItDragClick](https://github.com/ItDragClick)
 2. **Discord**: `@itdragclick` (With interactive 1-click clipboard copy + notification toast)
 
----
 
-## 🌐 Deploy to GitHub Pages (24/7 Free)
 
-### Option A: Drag & Drop on GitHub.com (Easiest)
-1. Go to [GitHub.com](https://github.com/) $\rightarrow$ click **New repository** $\rightarrow$ name it `portfolio` (or `itdragclick.github.io`).
-2. Make it **Public** and create it.
-3. Click **Upload files** and drag `index.html`, `style.css`, and `script.js`.
-4. Go to **Settings** $\rightarrow$ **Pages** $\rightarrow$ select `main` branch $\rightarrow$ click **Save**.
-5. Your site is live 24/7!
-
-### Option B: Using Git in Terminal
-```bash
-cd C:\Users\sarut\.gemini\antigravity\scratch\portfolio-website
-
-git init
-git add .
-git commit -m "feat: launch ItDragClick portfolio website"
-git branch -M main
-git remote add origin https://github.com/ItDragClick/portfolio.git
-git push -u origin main
-```
