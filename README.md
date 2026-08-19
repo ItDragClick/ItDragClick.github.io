@@ -1,4 +1,4 @@
-# 🚀 ItDragClick — Personal Portfolio Website (GitHub Pages 24/7 Ready)
+# 🚀 ItDragClick — Personal Website
 
 Personal portfolio website for **ItDragClick**, showcasing Minecraft client/server mods & plugins, Linux/Windows automation tools, and systems software.
 
